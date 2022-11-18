@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youmi-website/static/css/main.05a15694.css",
+    "main.js": "/youmi-website/static/js/main.21044a51.js",
+    "index.html": "/youmi-website/index.html",
+    "main.05a15694.css.map": "/youmi-website/static/css/main.05a15694.css.map",
+    "main.21044a51.js.map": "/youmi-website/static/js/main.21044a51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a15694.css",
+    "static/js/main.21044a51.js"
+  ]
+}
